@@ -11,5 +11,5 @@ serde = { version = "1", features = ["derive"] }
 serde_json = { version = "1" }
 
 [[bin]]
-name = "nick"
+name = "derusting"
 path = "main.rs"
